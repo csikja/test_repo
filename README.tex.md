@@ -1,5 +1,5 @@
-# test_repo
-test repo
+# 2D Linear Systems
+The state vector for all $t\in\R$ is $x(t)\in\R^2$ and it satisfies the equation
 \begin{equation}
-x^2 + y^2
+\dot x(t) = A x(t)
 \end{equation}
